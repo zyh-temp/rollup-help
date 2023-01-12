@@ -9,7 +9,7 @@ export default {
     },
     {
       format: "umd",
-      file: "lib/bundle.js",
+      file: "lib/bundle.umd.js",
       name: "bundle",
     },
   ],

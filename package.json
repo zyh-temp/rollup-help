@@ -1,8 +1,8 @@
 {
-  "name": "tongban-help1",
+  "name": "tongban-help",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/bundle.js",
+  "main": "lib/bundle.umd.js",
   "module": "lib/bundle-esm.js",
   "scripts": {
     "build": "rollup -c",
