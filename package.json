@@ -1,0 +1,23 @@
+{
+  "name": "tongban-help1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/bundle.js",
+  "module": "lib/bundle-esm.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^3.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@rollup/plugin-babel": "^6.0.3"
+  }
+}
